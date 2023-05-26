@@ -515,7 +515,7 @@ textarea {
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #0062b9; }
+      color: ##333; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
